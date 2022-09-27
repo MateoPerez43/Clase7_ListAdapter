@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase7_ListAdapter</string>
+    <string name="nombrePersona">Nombre Persona</string>
+    <string name="ultimoMensaje">Ultimo Mensaje</string>
+    <string name="ultimaHora">18:06</string>
+
+</resources>
